@@ -1,5 +1,5 @@
 streamlit
-moviepy-binary
 edge-tts
 requests
-Pillow==9.5.0
+moviepy>=2.0.0
+Pillow
